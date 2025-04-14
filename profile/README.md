@@ -1,4 +1,4 @@
-# ErpFusionFlex - Open-Source ERP System
+# ERP Flex - Open-Source ERP System
 
 **ErpFusionFlex** is a highly modular and scalable open-source ERP system designed to meet the diverse needs of businesses across industries. It consolidates various business processes into a unified platform, enhancing operational efficiency, streamlining workflows, and providing actionable insights for decision-makers. Built with flexibility and extensibility at its core, ErpFusionFlex allows users and developers to create plugins or integrate third-party software, making it a versatile solution that can grow alongside your business.
 
